@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin Android Template</string>
+    <string name="title">This is just a template</string>
+</resources>
